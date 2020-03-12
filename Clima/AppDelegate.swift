@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Clima
+//  Tipsy
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Angela Yu on 09/09/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
